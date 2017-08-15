@@ -1,4 +1,4 @@
-JupBox
+# Jup Box Hero
 
 A Python interface to [https://github.com/alex3165/react-mapbox-gl](react-mapbox-gl) for using in a Jupyter Notebook. 
 
